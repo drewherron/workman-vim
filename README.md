@@ -1,5 +1,3 @@
-# Unfinished - Don't use yet 
-***
 # Vim for Workman
 ## YNEO Mod
 
@@ -34,22 +32,22 @@ I did this for Colemak first, but I think the final layout on Workman works much
 I am providing this here as a vimrc file, but it's probably easier to just paste the following lines into your own vimrc:
 
 ```
-nmap Y H
-nmap y h
-nmap N n
-nmap n j
-nmap E N
-nmap e k
-nmap O L
-nmap o l
-nmap H J
-nmap h K
-nmap J E
-nmap j e
-nmap K Y
-nmap k y
-nmap L O
-nmap l o
+nnoremap Y H
+nnoremap y h
+nnoremap N n
+nnoremap n j
+nnoremap E N
+nnoremap e k
+nnoremap O L
+nnoremap o l
+nnoremap H J
+nnoremap h K
+nnoremap J E
+nnoremap j e
+nnoremap K Y
+nnoremap k y
+nnoremap L O
+nnoremap l o
 ```
 
 <p align="center">
