@@ -17,7 +17,7 @@ I did this for Colemak first, but I think the final layout on Workman works much
 
 #### Open new line is on the L key
 - L/l replaces O/o
-- **L** for ***l***ine?
+- **L** for **l**ine?
 
 #### Yank is on the K key
 - K/k replaces Y/y
