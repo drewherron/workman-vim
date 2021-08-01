@@ -51,7 +51,7 @@ nmap l o
 ```
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/drewherron/colemak-vim/main/workman-vim-yneo.png" width="50%" height="50%">
+ <img src="https://raw.githubusercontent.com/drewherron/workman-vim/main/workman-vim-yneo.png" width="50%" height="50%">
  <br>
  (Click to enlarge)
  </p>
