@@ -13,10 +13,11 @@ I did this for Colemak first, but I think the final layout on Workman works much
 - O (shift + →) moves cursor to bottom of screen (same location as QWERTY, different letter)
 
 #### End of word is on the J key
-- The keys for next word (W), previous word (B), and end of word (J) are all in a row.
+- The keys for next word (W), previous word (B), and end of word (J) are all next to each other.
 
 #### Open new line is on the L key
 - L/l replaces O/o
+- **L** for ***l***ine?
 
 #### Yank is on the K key
 - K/k replaces Y/y
