@@ -6,7 +6,7 @@ This is a vimrc to use with the Workman keyboard layout that keeps the direction
 I did this for Colemak first, but I think the final layout on Workman works much better.
 
 ### What's different:
-#### The four direction keys are on h/n/e/i, in the same place as QWERTY's h/j/k/l
+#### The four direction keys are on y/n/e/o, in the same place as QWERTY's h/j/k/l
 - N (shift + ↓) goes to next search match (replaces n)
 - E (shift + ↑) goes to previous search match (replaces N)
 - Y (shift + ←) moves cursor to top of screen (same location as QWERTY, different letter)
