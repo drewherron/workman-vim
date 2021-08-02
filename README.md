@@ -5,6 +5,12 @@ This is a vimrc to use with the Workman keyboard layout that keeps the direction
 
 I did this for Colemak first, but I think the final layout on Workman works much better.
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/drewherron/workman-vim/main/workman-vim-yneo.png" width="50%" height="50%">
+ <br>
+ (Click to enlarge)
+ </p>
+
 ### What's different:
 #### The four direction keys are on y/n/e/o, in the same place as QWERTY's h/j/k/l
 - N (shift + ↓) goes to next search match (replaces n)
@@ -51,9 +57,3 @@ nnoremap k y
 nnoremap L O
 nnoremap l o
 ```
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/drewherron/workman-vim/main/workman-vim-yneo.png" width="50%" height="50%">
- <br>
- (Click to enlarge)
- </p>
