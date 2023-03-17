@@ -40,20 +40,20 @@ I did this for Colemak first, but I think the final layout on Workman works much
 I am providing this here as a vimrc file, but it's probably easier to just paste the following lines into your own vimrc:
 
 ```
-nnoremap Y H
-nnoremap y h
-nnoremap N n
-nnoremap n j
-nnoremap E N
-nnoremap e k
-nnoremap O L
-nnoremap o l
-nnoremap H J
-nnoremap h K
-nnoremap J E
-nnoremap j e
-nnoremap K Y
-nnoremap k y
-nnoremap L O
-nnoremap l o
+noremap Y H
+noremap y h
+noremap N n
+noremap n j
+noremap E N
+noremap e k
+noremap O L
+noremap o l
+noremap H J
+noremap h K
+noremap J E
+noremap j e
+noremap K Y
+noremap k y
+noremap L O
+noremap l o
 ```
